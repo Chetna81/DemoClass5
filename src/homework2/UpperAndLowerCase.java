@@ -1,3 +1,5 @@
+package homework2;
+
 import java.util.Scanner;
  //program to check whether a character is uppercase or lowercase
 

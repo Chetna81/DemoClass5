@@ -1,3 +1,5 @@
+package homework2;
+
 import java.time.DayOfWeek;
 import java.util.Scanner;
    // program is day of the week//

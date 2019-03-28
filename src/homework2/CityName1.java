@@ -1,3 +1,5 @@
+package homework2;
+
 import java.util.Scanner;
   // program is CityName invalid
 

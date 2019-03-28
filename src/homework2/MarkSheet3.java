@@ -1,3 +1,4 @@
+package homework2;
 
 import java.util.Scanner;
      // ...student subject ,roll no,and total//
